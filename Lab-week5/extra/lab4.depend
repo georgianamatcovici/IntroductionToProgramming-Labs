@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698336118 source:c:\proiecte codeblocks\lab4\main.cpp
+	<iostream>
+	<cstring>
+	<iostream>
+	<cstring>
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+	<string.h>
+	<iostream>
+	<cstring>
+	<cstring>
+

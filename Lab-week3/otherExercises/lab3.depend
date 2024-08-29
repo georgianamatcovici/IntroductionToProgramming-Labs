@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1697736077 source:c:\proiecte codeblocks\lab3\main.cpp
+	<iostream>
+	<cmath>
+	<cmath>
+	<iostream>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<iostream>
+	<iostream>
+	<algorithm>
+	<cmath>
+	<fstream>
+	<iostream>
+	<iostream>
+	<string.h>
+

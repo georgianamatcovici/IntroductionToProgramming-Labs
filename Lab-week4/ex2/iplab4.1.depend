@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698338337 source:c:\proiecte codeblocks\iplab4.1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

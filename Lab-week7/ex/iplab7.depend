@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700159872 source:c:\proiecte codeblocks\iplab7\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<graphics.h>
+	<stdlib.h>
+

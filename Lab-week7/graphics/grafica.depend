@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700835575 source:c:\proiecte codeblocks\grafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+
